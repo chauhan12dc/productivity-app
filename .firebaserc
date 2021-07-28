@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-productivity": {
+      "hosting": {
+        "productivity-app": [
+          "angular-productivity"
+        ]
+      }
+    }
+  }
+}
